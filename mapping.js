@@ -928,13 +928,6 @@ const mapping = {
       "active_jobs": 0
     },
     {
-      "name": "Evergrow",
-      "employees": 9,
-      "description": "Evergrow, we use technology to create products that unlock funding for decarbonization. We partner with project developers, corporations, and financial institutions to help build and sustain a carbon neutral world. Our team has experience across corporate finance, clean energy, and technology. We are backed by top-tier venture capital firms and leaders from the technology, climate, and finance communities.",
-      "website": "evergrow.com",
-      "active_jobs": 1
-    },
-    {
       "name": "Opna",
       "employees": 6,
       "description": "Opna offers a carbon financing platform that empowers corporates to discover, finance, and manage pre-assessed carbon removal projects to accelerate the journey to net zero.\nThrough offtakes and forward agreements, corporates can use Opna to deploy capital directly into carbon projects, providing essential upfront and scaling financing for these projects to come to life. By aligning corporate objectives with those of project developers, Opna creates a net new supply of carbon projects to accelerate our climate transition.",
