@@ -1253,13 +1253,6 @@ const mapping = {
       "active_jobs": 14
     },
     {
-      "name": "Aurora Solar",
-      "employees": 596,
-      "description": "Aurora Solar develops solar industry software. It develops cloud-based software, that enables solar PV engineering design, provides workflow management functionality, and facilitates sales and customer acquisition for solar installers and financiers. Christopher Hopper and Samuel Adeyemo founded Aurora Solar in 2013. It has its headquarters in San Francisco, California.",
-      "website": "aurorasolar.com",
-      "active_jobs": 9
-    },
-    {
       "name": "Palmetto Clean Technology",
       "employees": 561,
       "description": "Just as technology has advanced society and delivered exciting consumer products, like Tesla cars and the iPhone, tech innovation is empowering homeowners across the country to join the New Utility Revolution. Palmetto\u2019s clean energy marketplace and custom software tools help homeowners quickly estimate utility cost-savings and get renewable energy sources up and running, with ongoing data insights and support. For individuals, this innovation means lower utility bills, more transparency, control over energy use, increase in property value, and protection against power outages. When adopted en masse, a clean energy shift is a major step towards combating climate change and achieving American energy independence.",
@@ -1300,6 +1293,13 @@ const mapping = {
       "description": "Bright offers residential solar for the developing world at $0 upfront. They operating first in Mexico, where electricity rates are 2-3x (that of the US), there\\'s 40% more sun, and installation costs are half as much.",
       "website": "thinkbright.mx",
       "active_jobs": 20
+    },
+    {
+      "name": "Aurora Solar",
+      "employees": 100,
+      "description": "Aurora Solar develops solar industry software. It develops cloud-based software, that enables solar PV engineering design, provides workflow management functionality, and facilitates sales and customer acquisition for solar installers and financiers. Christopher Hopper and Samuel Adeyemo founded Aurora Solar in 2013. It has its headquarters in San Francisco, California.",
+      "website": "aurorasolar.com",
+      "active_jobs": 9
     },
     {
       "name": "Arnergy",
@@ -1951,6 +1951,13 @@ const mapping = {
       "active_jobs": 0
     },
     {
+      "name": "Pearl Street Technologies",
+      "employees": 30,
+      "description": "Pearl Street automates the grid interconnection queue with offerings for both ISOs and project developers to run cluster studies.",
+      "website": "pearlstreettechnologies.com",
+      "active_jobs": 1
+    },
+    {
       "name": "Pioneer Power Solutions",
       "employees": 19,
       "description": "Pioneer Power Solutions is a manufacturer of specialty electrical transmission and distribution equipment and provides a broad range of custom-engineered and general-purpose solutions for applications in the utility, industrial and commercial markets. The Company provides through its three operating subsidiaries, Pioneer Transformers Ltd., Jefferson Electric, Inc., and Bemag Transformer Inc., a range of electrical transformers for applications in the utility, industrial and commercial segments of the electrical transmission and distribution industry. The Company has operations in the United States, Canada, and Mexico. The Company\\'s customers include a range of national and regional utilities and industrial companies, which are primarily located in North America. On March 6, 2013, the Company acquired Power Systems Solutions Inc.",
@@ -2321,13 +2328,6 @@ const mapping = {
       "active_jobs": 29
     },
     {
-      "name": "Autogrid",
-      "employees": 147,
-      "description": "AutoGrid Systems organizes energy data and employs big data analytics to generate real-time predictions that create actionable data. The company\u2019s suite of flexibility management applications allows utilities, electricity retailers, renewable energy project developers and energy service providers to deliver cheap, clean and reliable energy by managing networked distributed energy resources (DERs) in real time and at scale. AutoGrid applications utilize petabytes of smart meter, sensor and third-party data, along with powerful data science and high-performance computing algorithms, to monitor, predict, optimize and control the operations of millions of assets connected across global energy networks. Established at Stanford University in 2011, they have assembled a team of world-class software architects, electrical and computer engineers, data scientists and energy experts who apply cutting-edge analytics and in-depth energy data science to solve the world\u2019s most critical energy problems.",
-      "website": "auto-grid.com",
-      "active_jobs": 9
-    },
-    {
       "name": "eSmart Systems",
       "employees": 114,
       "description": "ESmart Systems provides AI-driven software solutions to the energy industry and service providers. The company is based on more than 20 years of international experience in establishing and operating knowledge based, leading IT and energy related companies targeting global markets. The company provides software solutions to the energy industry and service providers. Its cloud-born platform is designed to handle and exploit the Internet of Things, Big Data and Analytics in real-time. Common to all applications is vast data quantities gathered from sensors, which are analyzed using advanced prediction and optimization models. This results in completely new ways of visualizing data, making decisions and saving resources and costs. The platform is designed for Big Data from the ground up without legacy. eSmart Systems originates from the renowned IFE environment (Institute for Energy Technology). The company was founded in 2012 by an experienced team previously responsible for large IT service exports including delivery of the world\\'s first power exchange to Nord Pool, the Nordic Power Exchange, in 1991. Since 2012 the company has grown rapidly and currently consists of almost 80 employees with offices in Norway, Denmark, the UK, and USA.",
@@ -2354,13 +2354,6 @@ const mapping = {
       "description": "dcbel\\'s mission is to deliver energy that lets people live a life without compromise. dcbel (formerly known as Ossiaco) sits at the nexus of residential solar power, electric vehicle charging, the smart home, and customer-centric utilities. The dcbel team has a proven history of rethinking energy distribution for everything from large utility customers to distributed energy resource providers. dcbel\\'s AI-driven sustainable technologies enable people to leverage solar energy to power their cars, their homes, and their lifestyles. dcbel has numerous worldwide patents in power electronics and power conversion and is backed by a number of globally respected investors.",
       "website": "dcbel.energy",
       "active_jobs": 4
-    },
-    {
-      "name": "Opus One Solutions",
-      "employees": 80,
-      "description": "Opus One Solutions is a software engineering and solutions company delivering on a the vision of a Connected Energy Internet. Opus One is a software engineering company introducing GridOS, the first-in-kind real-time operating system for the smart grid. The grid today is getting smarter and greener, but has become more fragmented than ever as a network of silos. GridOS integrates the power system\u2019s energy resources such as generation, storage and demand, with information resources such as sensors, meters and analytics, to best manage and operate the grid. Using intelligent power engineering algorithms for online analytics, GridOS gives the utility and energy resources an unmatched degree of situational awareness, supervisory control and optimization of their systems. The result is improved grid reliability, power quality, utilization and efficiency, as well as unlocked potential for 100% clean energy.",
-      "website": "opusonesolutions.com",
-      "active_jobs": 0
     },
     {
       "name": "Kevala",
